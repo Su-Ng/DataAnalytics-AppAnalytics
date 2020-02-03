@@ -1,4 +1,4 @@
-# DataAnalytics-AppAnalytics
+# DataAnalytics-Playstore App Data Analytics
 
 This project is on the Analysis of the Google Play Store App Dataset. PlayStore apps data has enormous potential to drive app-making business to success. Actionable insights can be drawn for developers to work on capturing the Android market. The dataset is chosen from Kaggle. It is the webscrapped data of 10k PlayStore apps for analysing the Android market. It consists of 10841 lines and 13 columns in CSV format. In this repository, I would like to showcase descriptive analytics, where data is mined to extract groupings and patterns. Data Cleaning and Data Visualization is explored in this project.
 
