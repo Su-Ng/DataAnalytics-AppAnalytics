@@ -12,7 +12,7 @@ The following questions can help the businesses come up with some actionable ins
 
 The visualizations help the businesses target a particular market. A business can choose to enter a market with fewer or more competitors.
 
-
+![category_count](images/category_count.png)
 
 Ratings of the app is the most important factor that determines how better the app performs campared to other apps in the market. It also implies how the company responds to feedback, such as additional features that the users need, or improve its app according to feedback. 
 
