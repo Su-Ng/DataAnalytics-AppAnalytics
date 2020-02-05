@@ -9,6 +9,7 @@ The following questions can help the businesses come up with some actionable ins
 * Which category of apps has the highest rating?
 * What is the average app rating for each category of apps?
 * Which category of apps has the highest rating?
+* Which category of apps is most installed?
 
 The visualizations help the businesses target a particular market. A business can choose to enter a market with fewer or more competitors.
 
@@ -19,6 +20,10 @@ Ratings of the app is the most important factor that determines how better the a
 ![app_rating](images/appRating.png)
 
 ![groupAppRating](images/groupAppRating.png)
+
+The number of installs is an important factor in determining which category of apps has the highest demand. This indicates what type of apps people are most interested in.
+
+![mostInstall](images/mostInstalls.png)
 
 Thanks for reading!
 
